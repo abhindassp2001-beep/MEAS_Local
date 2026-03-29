@@ -1,0 +1,7 @@
+checkpoint: resnet50_keypoints_best.pth
+camera_index: 0
+weights: none
+face_scale: 1.35
+detector_scale_factor: 1.1
+detector_min_neighbors: 5
+detector_min_size: 80

@@ -1,0 +1,10 @@
+json_path: project-2-at-2026-03-27-12-39-5aa274bc.json
+image_dir: .
+epochs: 500
+batch_size: 8
+lr: 0.0001
+image_size: 224
+val_ratio: 0.2
+weights: none
+output: resnet50_keypoints_best.pth
+seed: 42
